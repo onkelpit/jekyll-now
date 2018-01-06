@@ -9,6 +9,7 @@ So for nearly one year i have the wonderful situation that i can use two ISP and
 
 In addition to that i have to optimize my WiFi signal from the router and several APs. So i got a TP-Link TP-WL1043ND for 15 bucks on a local fb group and flashed it with LEDE.
 
+![_config.yml]({{ site.baseurl }}/images/TL-WL1043ND-03.jpg)
 | ![TP-WL1043ND]({{ site.baseurl }}/images/TL-WR143ND-03.jpg) |
 |:--:|
 | *My new TP-Link TL-WL1043ND* |
