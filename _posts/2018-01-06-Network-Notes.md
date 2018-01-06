@@ -9,11 +9,11 @@ So for nearly one year i have the wonderful situation that i can use two ISP and
 
 In addition to that i have to optimize my WiFi signal from the router and several APs. So i got a TP-Link TP-WL1043ND for 15 bucks on a local fb group and flashed it with LEDE.
 
-![_config.yml]({{ site.baseurl }}/images/TL-WL1043ND-03.jpg)
-| ![TP-WL1043ND]({{ site.baseurl }}/images/TL-WR143ND-03.jpg) |
+| ![TP-WL1043ND]({{ site.baseurl }}/images/TL-WR1043ND-03.jpg) |
 |:--:|
 | *My new TP-Link TL-WL1043ND* |
 
 There is only one problem with the router from the ISP. Its a pain in the a$$. Its based on a MIPS board with OpenWRT. But totally cut back and nearly no options are left for the user. Its a Genexis Platinum 7840.
 
 pit
+./images/TL-WR1043ND-03.jpg
