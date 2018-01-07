@@ -16,4 +16,3 @@ In addition to that i have to optimize my WiFi signal from the router and severa
 There is only one problem with the router from the ISP. Its a pain in the a$$. Its based on a MIPS board with OpenWRT. But totally cut back and nearly no options are left for the user. Its a Genexis Platinum 7840.
 
 pit
-./images/TL-WR1043ND-03.jpg
