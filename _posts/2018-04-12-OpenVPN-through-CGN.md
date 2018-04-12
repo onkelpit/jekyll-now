@@ -15,6 +15,6 @@ vServer.
 But back to the OpenVPN topic. In the lack of own documentation (this time I write this post FTW!),
 I have to redo some steps that where already made.
 
-I'll stick to the [Video|https://www.youtube.com/watch?v=XcsQdtsCS1U] made by Darren Kitchen and Shaonnon Morse by Hak5. Thanks to you :)
+I'll stick to the [Video](https://www.youtube.com/watch?v=XcsQdtsCS1U) made by Darren Kitchen and Shaonnon Morse by Hak5. Thanks to you :)
 
 pit

@@ -3,11 +3,11 @@ layout: post
 title: Network notes
 ---
 
-Recently i got rolled out by my new ISP. A syncronious fibre-optic connection to the Internet with 200 MBit/s. Until my phone number is not transfered from my old cable ISP (Nov 2018) i can use the fibre connection free of charge.
+Recently I got rolled out by my new ISP. A synchronous fibre-optic connection to the Internet with 200 MBit/s. Until my phone number is not transfered from my old cable ISP (Nov 2018) I can use the fibre connection free of charge.
 
-So for nearly one year i have the wonderful situation that i can use two ISP and only pay one. As my main firewall i plan to use a pfSense box and use that as a load-balancer.
+So for nearly one year I have the wonderful situation that I can use two ISP and only pay one. As my main firewall I plan to use a pfSense box and use that as a load-balancer.
 
-In addition to that i have to optimize my WiFi signal from the router and several APs. So i got a TP-Link TP-WL1043ND for 15 bucks on a local fb group and flashed it with LEDE.
+In addition to that I have to optimize my WiFI signal from the router and several APs. So I got a TP-Link TP-WL1043ND for 15 bucks on a local fb group and flashed it with LEDE.
 
 | ![TP-WL1043ND]({{ site.baseurl }}/images/TL-WR1043ND-03.jpg) |
 |:--:|
