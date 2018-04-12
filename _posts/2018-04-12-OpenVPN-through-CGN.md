@@ -17,4 +17,16 @@ I have to redo some steps that where already made.
 
 I'll stick to the [Video](https://www.youtube.com/watch?v=XcsQdtsCS1U) made by Darren Kitchen and Shaonnon Morse by Hak5. Thanks to you :)
 
+This time I use Ubuntu Server. To get the software from the mirrors just type as superuser.
+
+```
+apt install openvpn easy-rsa
+```
+
+After that we use the example configuration to build on.
+```
+gunzip -c /usr/share/doc/openvpn/examples/sample-config-files/server.conf.gz > /etc/openvpn/server.conf
+```
+
+
 pit
